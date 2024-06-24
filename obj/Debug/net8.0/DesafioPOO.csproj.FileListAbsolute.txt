@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\bin\Debug\net8.0\DesafioPOO.exe
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\bin\Debug\net8.0\DesafioPOO.deps.json
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\bin\Debug\net8.0\DesafioPOO.dll
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\bin\Debug\net8.0\DesafioPOO.pdb
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.sourcelink.json
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.dll
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\refint\DesafioPOO.dll
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.pdb
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\dev\Ulbra\2º Semestre\Lab Prog\DesafioPOO\obj\Debug\net8.0\ref\DesafioPOO.dll
